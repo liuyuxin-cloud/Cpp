@@ -12,6 +12,9 @@ public:
     int getValue(){
         return value;
     }
+    void setValue(int value){
+        this->value = value;
+    }
     /*
     我认为以下两个判断函数可以不传参数的，直接判断对象的value值即可.
     */

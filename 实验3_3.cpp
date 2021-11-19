@@ -1,6 +1,6 @@
  #include <iostream>
- #include "实验3_1"
- #include "实验3_2"
+ #include "实验3_1.cpp"
+ #include "实验3_2.cpp"
  using namespace std;
 
 int main(){
